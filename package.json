@@ -1,16 +1,16 @@
 {
-"name": "area168slot",
-"theme": "area168 slot",
-"version": "6.4.10",
-"description": "area168 slot ทางเข้าหลักเว็บพนันเว็บตรง ไม่มีขั้นต่ำ รับเครดิตฟรี",
-"keywords": [
-"area168 slot",
-"area168 slot เครดิตฟรี",
-"area168 slot ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/area168slot",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "area168slot",
+  "theme": "area168 slot",
+  "version": "6.5.0",
+  "description": "area168 slot ทางเข้าหลักเว็บพนันเว็บตรง ไม่มีขั้นต่ำ รับเครดิตฟรี",
+  "keywords": [
+    "area168 slot",
+    "area168 slot เครดิตฟรี",
+    "area168 slot ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/area168slot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
